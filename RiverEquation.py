@@ -135,7 +135,7 @@ for t in times_to_plot:
 
 plt.xlabel('Відстань (м)', fontsize=14)
 plt.ylabel('Глибина (м)', fontsize=14)
-plt.title('Глибина річки з часом з плавними переходами (Метод скінченних різниць)', fontsize=16)
+plt.title('Глибина річки протяго різних періодів часу)', fontsize=16)
 plt.legend(fontsize=12)
 plt.grid(True)
 plt.show() 
